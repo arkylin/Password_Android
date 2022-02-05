@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="name">名称：</string>
+    <string name="search">查询</string>
+    <string name="content">内容：</string>
+    <string name="save">保存</string>
+    <string name="all">全部</string>
+    <string name="delete">删除</string>
+    <string name="id">ID:</string>
+    <string name="getRadompassword">生成随机密码：</string>
+    <string name="button_gen">生成</string>
+</resources>
